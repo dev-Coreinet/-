@@ -1,0 +1,6 @@
+{
+  "name": "CoreInet — Secure Tunneling & .cin Client",
+  "description": "Next-generation V2Ray, Xray, and encrypted .cin configuration client with multi-hop tunneling, live node telemetry, and cryptographic config compiler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
